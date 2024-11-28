@@ -1,7 +1,7 @@
 E-Commerce Platform
 Overview
 This is a web-based e-commerce platform designed to provide users with a seamless online shopping experience. The platform supports features like user registration, product browsing, cart management, secure checkout, and order tracking.
-website : https://e-commerce-psi-orcin.vercel.app/cart
+Check out the live version of the project here: E-Commerce Platform
 Features
 User Management:
 
